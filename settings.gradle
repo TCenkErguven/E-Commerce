@@ -1,0 +1,9 @@
+rootProject.name = 'ETicaret'
+include 'AuthService'
+include 'UserService'
+include 'ProductService'
+include 'SaleService'
+include 'config-server'
+include 'ApiGatewayService'
+include 'MailService'
+
